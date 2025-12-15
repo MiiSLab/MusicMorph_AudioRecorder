@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .view {
+	background-image: url('./assets/Background_1088_488.png');
+	background-size: cover;
+	background-position: center;
+} */
+body {
+	font-family: 'Inter', sans-serif;
+}

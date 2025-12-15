@@ -1,0 +1,194 @@
+[
+	{
+		"Source": "AKM320 0",
+		"Message": "note_on",
+		"Channel": "0",
+		"Note": "56",
+		"Velocity": "93",
+		"Time Delta": "7511"
+	},
+	{
+		"Source": "AKM320 0",
+		"Message": "note_off",
+		"Channel": "0",
+		"Note": "56",
+		"Velocity": "64",
+		"Time Delta": "278"
+	},
+	{
+		"Source": "AKM320 0",
+		"Message": "note_on",
+		"Channel": "0",
+		"Note": "56",
+		"Velocity": "84",
+		"Time Delta": "5768"
+	},
+	{
+		"Source": "AKM320 0",
+		"Message": "note_off",
+		"Channel": "0",
+		"Note": "56",
+		"Velocity": "64",
+		"Time Delta": "280"
+	},
+	{
+		"Source": "AKM320 0",
+		"Message": "note_on",
+		"Channel": "0",
+		"Note": "56",
+		"Velocity": "95",
+		"Time Delta": "373"
+	},
+	{
+		"Source": "AKM320 0",
+		"Message": "note_on",
+		"Channel": "0",
+		"Note": "58",
+		"Velocity": "85",
+		"Time Delta": "263"
+	},
+	{
+		"Source": "AKM320 0",
+		"Message": "note_off",
+		"Channel": "0",
+		"Note": "56",
+		"Velocity": "64",
+		"Time Delta": "0"
+	},
+	{
+		"Source": "AKM320 0",
+		"Message": "note_off",
+		"Channel": "0",
+		"Note": "58",
+		"Velocity": "64",
+		"Time Delta": "187"
+	},
+	{
+		"Source": "AKM320 0",
+		"Message": "note_on",
+		"Channel": "0",
+		"Note": "56",
+		"Velocity": "102",
+		"Time Delta": "36852"
+	},
+	{
+		"Source": "AKM320 0",
+		"Message": "note_on",
+		"Channel": "0",
+		"Note": "58",
+		"Velocity": "105",
+		"Time Delta": "252"
+	},
+	{
+		"Source": "LPD8 mk2 1",
+		"Message": "note_on",
+		"Channel": "0",
+		"Note": "36",
+		"Velocity": "91",
+		"Time Delta": "176206"
+	},
+	{
+		"Source": "LPD8 mk2 1",
+		"Message": "note_off",
+		"Channel": "0",
+		"Note": "36",
+		"Velocity": "0",
+		"Time Delta": "107"
+	},
+	{
+		"Source": "LPD8 mk2 1",
+		"Message": "note_on",
+		"Channel": "0",
+		"Note": "36",
+		"Velocity": "92",
+		"Time Delta": "281"
+	},
+	{
+		"Source": "LPD8 mk2 1",
+		"Message": "note_off",
+		"Channel": "0",
+		"Note": "36",
+		"Velocity": "0",
+		"Time Delta": "109"
+	},
+	{
+		"Source": "LPD8 mk2 1",
+		"Message": "note_on",
+		"Channel": "0",
+		"Note": "42",
+		"Velocity": "2",
+		"Time Delta": "170"
+	},
+	{
+		"Source": "LPD8 mk2 1",
+		"Message": "note_off",
+		"Channel": "0",
+		"Note": "42",
+		"Velocity": "0",
+		"Time Delta": "32"
+	},
+	{
+		"Source": "LPD8 mk2 1",
+		"Message": "note_on",
+		"Channel": "0",
+		"Note": "42",
+		"Velocity": "97",
+		"Time Delta": "202"
+	},
+	{
+		"Source": "LPD8 mk2 1",
+		"Message": "note_off",
+		"Channel": "0",
+		"Note": "42",
+		"Velocity": "0",
+		"Time Delta": "109"
+	},
+	{
+		"Source": "LPD8 mk2 1",
+		"Message": "note_on",
+		"Channel": "0",
+		"Note": "42",
+		"Velocity": "81",
+		"Time Delta": "263"
+	},
+	{
+		"Source": "LPD8 mk2 1",
+		"Message": "note_off",
+		"Channel": "0",
+		"Note": "42",
+		"Velocity": "0",
+		"Time Delta": "93"
+	},
+	{
+		"Source": "LPD8 mk2 1",
+		"Message": "note_on",
+		"Channel": "0",
+		"Note": "36",
+		"Velocity": "95",
+		"Time Delta": "140"
+	},
+	{
+		"Source": "LPD8 mk2 1",
+		"Message": "note_off",
+		"Channel": "0",
+		"Note": "36",
+		"Velocity": "0",
+		"Time Delta": "93"
+	},
+	{
+		"Source": "LPD8 mk2 1",
+		"Message": "note_on",
+		"Channel": "0",
+		"Note": "42",
+		"Velocity": "46",
+		"Time Delta": "124"
+	},
+	{
+		"Source": "LPD8 mk2 1",
+		"Message": "note_off",
+		"Channel": "0",
+		"Note": "42",
+		"Velocity": "0",
+		"Time Delta": "46"
+	}
+]
