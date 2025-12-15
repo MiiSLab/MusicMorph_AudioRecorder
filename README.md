@@ -2,6 +2,14 @@
 
 An integrated system for MIDI device input, audio recording, and dance motion generation. This project includes a Python backend server and a React frontend UI that can capture MIDI device input, record audio, and upload audio to an external service to generate corresponding dance movements.
 
+## 🎬 Demo
+
+Watch the system in action:
+
+[![Demo Video](https://img.shields.io/badge/▶️_Watch-Demo_Video-blue?style=for-the-badge)](https://github.com/MiiSLab/MusicMorph_AudioRecorder/raw/main/docs/demo.mp4)
+
+> 📥 Click the badge above to download and watch the demo video, or view it directly in the repository: [docs/demo.mp4](docs/demo.mp4)
+
 ## 📋 Project Overview
 
 ### System Architecture
